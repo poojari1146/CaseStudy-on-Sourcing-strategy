@@ -2,7 +2,7 @@
 🌿 Patagonia – Ethical Sourcing & Sustainable Supply Chain Strategy<br>
 | A case study analyzing Patagonia’s sourcing practices, sustainability challenges, and solutions to balance profitability with environmental responsibility.
 
-🧭 Overview<b>
+🧭 Overview<br>
 This project explores the sourcing strategy and sustainability leadership of Patagonia, a trailblazing American outdoor clothing company. Known for its commitment to environmental and social responsibility, Patagonia’s business model offers a compelling example of ethical operations in a highly competitive retail landscape.
 
 The study highlights Patagonia’s strategic sourcing best practices, qualitative and quantitative impacts, and recommendations to improve supply chain resilience, reduce emissions, and scale sustainable innovation.<br>
